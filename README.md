@@ -19,7 +19,7 @@ There is a need for a private platform to users to keep track of books and perso
 
 ## Access Instructions
 This project is hosted on Heroku and can be accessed here: 
-[link to app on heroku](https://bookworm-19.herokuapp.com/)
+https://bookworm-19.herokuapp.com/
 
 ## Project Requirements
 1.	Create a fully functioning single page application.
