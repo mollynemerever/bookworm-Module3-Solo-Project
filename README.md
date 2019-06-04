@@ -3,7 +3,7 @@
 
 #### Molly Nemerever
 
-###### Project completed as part of [Flatiron School](https://flatironschool.comcampuses/seattle/) curriculum.
+###### Project completed as part of [Flatiron School](https://flatironschool.com/campuses/seattle/) curriculum.
 
 ![project gif](https://github.com/mollynemerever/bookworm-Module3-Solo-Project/blob/master/ezgif.com-gif-to-webp.gif)
 
